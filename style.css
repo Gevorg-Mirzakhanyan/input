@@ -1,0 +1,23 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+.input-block {
+	background-color: lightblue;
+	width: 600px;
+}
+
+.input 
+{
+	width: 100%;
+	margin: 25px 0;
+}
+
+textarea {
+	resize: none;
+}
